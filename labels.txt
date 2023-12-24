@@ -1,0 +1,4 @@
+0 Waiting...
+1 LCD 16x2
+2 LED 7 Thanh
+3 Servo SG90
